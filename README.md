@@ -21,26 +21,26 @@ CSV é um formato de texto onde os dados são separados por vírgulas ou ponto e
 
 ## Vantagens do json2csv
 
-Conversão rápida de JSON para CSV
+- Conversão rápida de JSON para CSV
 
-Fácil integração com Node.js e front-end
+- Fácil integração com Node.js e front-end
 
-Compatível com Excel e Google Sheets
+- Compatível com Excel e Google Sheets
 
-Permite customizar colunas e delimitadores
+- Permite customizar colunas e delimitadores
 
-Ideal para exportação de dados e relatórios
+- Ideal para exportação de dados e relatórios
 
 ---
 
 ## Aplicações Práticas
 
-Exportação de dados de APIs
+- Exportação de dados de APIs
 
-Sistemas de estoque
+- Sistemas de estoque
 
-Dashboards e relatórios
+- Dashboards e relatórios
 
-Ferramentas de conversão de arquivos
+- Ferramentas de conversão de arquivos
 
-Backup de dados em CSV
+- Backup de dados em CSV
