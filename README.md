@@ -11,14 +11,6 @@ Ela é muito usada em APIs, sistemas web e relatórios para exportar dados em fo
 
 JSON é um formato leve e estruturado para troca de dados entre sistemas.
 
-### Exemplo:
-
-```json
-[
-  { "nome": "Miguel", "idade": 20 },
-  { "nome": "Ana", "idade": 25 }
-]
-
 ---
 
 ## O que é CSV?
